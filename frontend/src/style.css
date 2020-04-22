@@ -1,0 +1,66 @@
+.delete-button {
+    border: none;
+    cursor: pointer;
+    background-color: gainsboro;
+    color: #ec5519;
+    height: 30px;
+    width: 60px;
+  } 
+  .delete-button:hover { background: #e6e9eb; }
+  .update-button {
+    margin: 0 5px;
+    border: none;
+    cursor: pointer;
+    background-color: gainsboro;
+    color: #3f3f3f;
+    height: 30px;
+    width: 60px;
+  } 
+  .update-button:hover { background: #e6e9eb;  }
+  .add-button {
+    cursor: pointer;
+    border: none;
+    background-color: gainsboro;
+    color: #3f3f3f;
+    height: 30px;
+    width: 60px;
+  } 
+  .add-button:hover { background:#e6e9eb; }
+  .update-input{
+    margin: 0 3px;
+    background-color: white;
+    color: #4090d1;
+    height: 23px;
+    width: 100px;
+  }
+  .add-input{
+    margin: 0 3px;
+    background-color: white;
+    color: #4090d1;
+    height: 23px;
+    width: 200px;
+  }
+  .back{
+    background-color: #e9b6b6;
+    height: 100px;
+    width: 400px;
+  }
+  .back-header{
+    color: #3f3f3f;
+    height: 50px;
+    width: 400px;
+  }
+  .back-new{
+    height: 50px;
+    width: 400px;
+  }
+  .back-load{
+    color: #3f3f3f;
+    height: 50px;
+    width: 400px;
+  }
+  .back-error{
+    color: #3f3f3f;
+    height: 50px;
+    width: 400px;
+  }
